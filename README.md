@@ -1,4 +1,4 @@
-# MTLSA25_JClauss
+# MLTSA25_JClauss
 
 I decided to take this class to learn more about machine learning, and gain the skills to be able to use this resource in my research going forward if needed.
 
